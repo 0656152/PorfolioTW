@@ -1,4 +1,4 @@
-#Masthead{
+#masthead{
 	position: fixed;
 	width: 100%;
 	margin: 0 0 30px;
@@ -26,21 +26,21 @@ nav a{
 	text-decoration: none;
 	border-left:1px solid red;
 }
-nav a:first-child{
-	border=left: none;
+nav a: first-child {
+	border-left: 0 none;
 }
 #main-container:{
-	padding: top 130px;
+	padding-top:130px;
 }
 .main-section:{
 	float: left;
-	width:100px;
-	max-width:650px;
+	width:100%;
+	max-width:660px;
 	padding:30px;
 	margin:0 0 40px;
 	background: green;
-	border: 1px solid add;
-	padding-top: 5000px;
+	border: 1px solid #fff;
+	
 
 }
 .all image:{
@@ -52,18 +52,18 @@ nav a:first-child{
 }
 .sidebar:{
 	float: right;
-	width: 100;
+	width: 100%;
 	max-width:270px;
 	padding:30px;
 	margin-bottom:20px;
-	background: green;
-	border:1px solid add;
+	background: #fff;
+	border:1px solid #ddd;
 }
-h3, .sidebar h2:{
+h3 .sidebar h2:{
 padding-bottom:20px;
 margin-bottom:15px;
 line-height:22px;
-border-bottom:2px solid ;
+border-bottom:2px solid #eee;
 
 }
 .social:{
@@ -72,4 +72,10 @@ border-bottom:2px solid ;
 	margin-top:8px;
 	margin-right:5px;
 	
+}
+.auth-image: {
+	float:left;
+	width: 200px;
+	margin-top:300;
+	margin-right:250px;
 }
