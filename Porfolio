@@ -1,17 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta charset="utf-8"
+	<meta charset="utf-8"= http-equiv="X-UA-Compatible" content="IE=edge"/>
 	<title>About|Tao Wang</title>
-	<link rel="stylesheet" type="text/css" href="C:\Users\0656152\Desktop\PorfolioTW\style.css">
+	<meta name= "viewport" content= "width=device=width, initial=scale=1"/>
+	<link rel="stylesheet" type="text/css" href="style.css"/>
 </head>
 <body>
 	<header id="Masthead">
 		<div class="container">
 			<a>Tao Wang<a/>
 			<nav>
-				<a>About</a>
-				<a href= "Profoilio"</a>
-				<a href="Contact.html"</a>
+				<a href="index.html">About</a>
+				<a>Portfolio</a>
+				<a href="Contact.html">Contact</a>
 			</nav>
 		</div> 		
 	</header>

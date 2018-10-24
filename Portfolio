@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About|Tao Wang</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header id="Masthead">
+		<div class="container">
+			<a>Tao Wang<a/>
+			<nav>
+				<a>About</a>
+				<a href= "Profoilio"</a>
+				<a href="Contact.html"</a>
+			</nav>
+		</div> 		
+	</header>
+	<div id="main container" class="container">
+		<section class="main-section">
+			<h1>Portfolio</h1>
+
+			<div class= "work">
+				<image src="">
+			</div>
+		</section>
+	</div>
