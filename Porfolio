@@ -13,8 +13,26 @@
 			<a>Tao Wang<a/>
 			<nav>
 				<a href="index.html">About</a>
-				<a>Portfolio</a>
+				<a href="Portfolio.html">Portfolio</a>
 				<a href="Contact.html">Contact</a>
 			</nav>
 		</div> 		
 	</header>
+
+	<div id="main-container" class="container">
+		<section class= "main-section">
+			<h1>Portfolio</h1>
+			<div class="work">
+				<a href="https://0656152.github.io/Favorite-Things-Website/." img src="star.jpg">
+				</a>
+		</section>
+	</div>
+
+	<footer>
+		<div class="container">
+			Copyright &copy; 2018 Tao Wang
+		</div>
+	</footer>
+
+</body>
+</html>
