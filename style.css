@@ -13,6 +13,7 @@
 	max-width: 960px;
 	margin: 0 auto;
 	clear: both;
+	text-decoration: none;
 }
 nav{
 	float: right;
@@ -89,7 +90,7 @@ footer:{
 	background:green;
 	border-top:8px solid green;
 
-.work: {
+.work:{
 	position:relative;
 	float:left;
 	width:274px;
@@ -116,4 +117,28 @@ footer:{
 	text-align: center;
 	background: purple;
 	border-bottom: 0;
+}
+body:{
+	font-family: arial, helvetica;
+	font-size:18;
+	line-height:32px;
+	color:aqua;
+
+}
+h1,
+h2,
+h3,
+p:{
+	margin-bottom:20px;
+}
+h1,
+h2,
+h3:{
+	font-family: geogia;
+	color: purple;
+}
+h1:{
+	padding-bottom: 20px;
+	border-bottom: 3px, solid;
+	line-height: :40px
 }
