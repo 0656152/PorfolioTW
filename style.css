@@ -177,16 +177,47 @@ h3, .sidebar h2 {
 }
 
 /* contact page */
+#contact-form ul {
+margin-bottom:20px;
 
+}
+#contact-fom li {
+    margin-bottom: 10px
+}
+label
+input[type=ext]
+input[text=email]
+textarea {
+    display:black;
+    width:100%;
 
+}
+label
+input[type=text],
+input[text=email],
+textarea {
+    height: 35px;
+    padding: 0 30px;
+    font-size: 14px;
+    border: 1px solid green;
+}
+textarea{
+    height:200px;
+}
+input[type=email] {
+    padding: 10px 30px;
+    font-size: 14px;
+    color:green;
+    cursor:pointer;
+    background: green;
+    border:red;
 
-
-
+}
 /* footer */
 footer {
     padding: 30px;
     clear: both;
-    font-size: 12px;
+    font-size: 14px;
     color: yellow;
     text-align: center;
     background: black;
